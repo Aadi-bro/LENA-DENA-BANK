@@ -1,0 +1,6 @@
+{
+  "name": "Novus Horizon Bank - QA & Automation Testbed",
+  "description": "Full-scale demo banking application built for software testing, Playwright/Cypress automation, REST API exploration, and defect injection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
